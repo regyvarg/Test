@@ -1,0 +1,6 @@
+C:\Regy\Angular\Test\FileParser.Console\FileParser.Console\bin\Debug\FileParser.Console.exe.config
+C:\Regy\Angular\Test\FileParser.Console\FileParser.Console\bin\Debug\FileParser.Console.exe
+C:\Regy\Angular\Test\FileParser.Console\FileParser.Console\bin\Debug\FileParser.Console.pdb
+C:\Regy\Angular\Test\FileParser.Console\FileParser.Console\obj\Debug\FileParser.Console.csprojResolveAssemblyReference.cache
+C:\Regy\Angular\Test\FileParser.Console\FileParser.Console\obj\Debug\FileParser.Console.exe
+C:\Regy\Angular\Test\FileParser.Console\FileParser.Console\obj\Debug\FileParser.Console.pdb
